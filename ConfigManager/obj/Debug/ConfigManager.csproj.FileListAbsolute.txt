@@ -1,0 +1,6 @@
+E:\SwitchWebConfig\ConfigManager\bin\Debug\ConfigManager.dll
+E:\SwitchWebConfig\ConfigManager\bin\Debug\ConfigManager.pdb
+E:\SwitchWebConfig\ConfigManager\obj\Debug\ConfigManager.csproj.AssemblyReference.cache
+E:\SwitchWebConfig\ConfigManager\obj\Debug\ConfigManager.csproj.CoreCompileInputs.cache
+E:\SwitchWebConfig\ConfigManager\obj\Debug\ConfigManager.dll
+E:\SwitchWebConfig\ConfigManager\obj\Debug\ConfigManager.pdb
